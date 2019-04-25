@@ -1,0 +1,9 @@
+u306121066
+
+
+
+skybeats
+
+db_pass=	2qO3ZbrMWn
+db_username=	u306121066_ akash
+db_name=	u306121066_sky

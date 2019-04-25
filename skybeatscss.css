@@ -1,0 +1,65 @@
+
+
+*
+{
+	margin:0 0; 
+}
+body
+{
+	background-image:url(image/bg.jpg);
+}
+@font-face
+{
+	font-family:myfont;
+	src:url(fonts/GiddyupStd.otf);	
+}
+.musicbox
+{
+	margin-top:10px; 
+}
+
+#logo
+{
+	
+	color:#E11E95; font-size:90px; margin-top:50px; font-family:myfont;
+}
+#head
+{
+	color:#2F1BD7; font-size:20px; margin-top:50px; margin-left:10px;
+}
+#head:hover
+{
+	color:#CD1785;
+}
+#navhead
+{
+	background-color:transparent; border:none
+}
+.response
+{
+	color:#b666ed;
+}
+#sub
+{
+	font-size:25px; color:#000000; background-color:#5852D4; border:none; height:40px; line-height:30px;
+}
+#sub:hover
+{
+	background-color:#E11E95;
+}
+.feedback
+{
+	font-size:20px; color:#CD1785;
+}
+.lbl
+{
+	color:#CD1785; font-size:20px;
+}
+#downld
+{
+	background-color:#5852D4; color:#CD1785; font-size:18px;
+}
+#downld:hover
+{
+	background-color:#CD1785; color:#5852D4;
+}
